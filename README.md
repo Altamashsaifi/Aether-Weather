@@ -14,4 +14,8 @@ Features:
 - Custom weather icons
 - Modern UI
 
+# Download
+
+[Download APK](https://github.com/Altamashsaifi/Aether-Weather/releases/download/v1.0/AetherWeather-debug.apk.zip
+
 Built by Altamash
